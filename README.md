@@ -4,7 +4,6 @@
   <a href="eezhyang@gmail.com">Email</a>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yeungchenwa.yeungchenwa)
 
 - 🔭 I’m currently working on [SCUT-DLVCLab](https://github.com/HCIILAB).
 - 🌱 My research interest is Diffusion Model, Scene Text detection and recognition and Handwritten Character Recognition.
