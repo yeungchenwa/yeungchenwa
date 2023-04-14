@@ -1,4 +1,8 @@
-### Hi! Good to see you! 👋
+<h2 align="center">👋 Hello! I'm yeung!</h2>
+<p align="center">
+  <a href="https://www.zhihu.com/people/young-40-31" style="text-decoration:none;">
+    <img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="3%" alt="" /></a>
+</p>
 
 <!--
 **yeungchenwa/yeungchenwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
