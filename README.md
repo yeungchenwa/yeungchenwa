@@ -5,8 +5,12 @@
 </p>
 
 
-- 🔭 I’m currently working in [SCUT-DLVCLab](https://github.com/HCIILAB) supervised by Prof. [Lianwen Jin](http://www.dlvc-lab.net/lianwen/).
+- 🔭 I’m currently working in [SCUT-DLVCLab](https://github.com/HCIILAB).
+
 - 🌱 My research interest is Diffusion Model, Scene Text detection and recognition and Handwritten Character Recognition.
+
 - 👤 Languages: Chinese, English, Cantonese and Hakka.
-- ☕️ I am a heavy coffee drinker.
+
+- ☕️ I am a heavy coffee drinker。
+
 - 🏈 I love a lot of sports, like Fishing🎣, Swimming🏊‍♂️, Table tennis🎱🏓, Ball🏀⚽️, Badminton🏸 and Singing🎤.
