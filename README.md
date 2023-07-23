@@ -9,8 +9,8 @@
 
 - 🌱 My research interest is Diffusion Model, Scene Text detection and recognition and Handwritten Character Recognition.
 
-- 👤 Languages: Chinese, English, Cantonese and Hakka.
+- 👤 Languages: Chinese, Cantonese, English and Hakka.
 
-- ☕️ I am a heavy coffee drinker。
+- ☕️ A heavy coffee drinker。
 
-- 🏈 I love a lot of sports, like Fishing🎣, Swimming🏊‍♂️, Table tennis🎱🏓, Ball🏀⚽️, Badminton🏸 and Singing🎤.
+- 🏈 Love a lot of sports, like Fishing🎣, Swimming🏊‍♂️, Table tennis🎱🏓, Ball🏀⚽️, Badminton🏸 and Singing🎤.
