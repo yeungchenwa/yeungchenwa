@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working in [SCUT-DLVCLab](https://github.com/HCIILAB).
-- 🌱 My research interest is Diffusion Model, Scene Text detection and recognition and Handwritten Character Recognition.
+- 🌱 My research interest is Diffusion Model, Text-image generation, and Handwritten Character Recognition.
 - 👤 Languages: Chinese, Cantonese, English and Hakka.
 - ☕️ A heavy coffee drinker。
 - 🏈 Love a lot of sports, like Fishing🎣, Swimming🏊‍♂️, Table tennis🎱🏓, Ball🏀⚽️, Badminton🏸 and Singing🎤.
