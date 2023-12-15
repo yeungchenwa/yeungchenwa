@@ -6,12 +6,7 @@
 </p>
 
 **•• 📖 Here is my Homepage: https://yeungchenwa.github.io/ ••**  
-
-- 🔭 I’m currently working in [SCUT-DLVCLab](https://github.com/HCIILAB).
-- 🌱 My research interest is Diffusion Model, Image Generation, Low-Level Document Processing, Document Understanding, and Video Generation.
-- 👤 Languages: Chinese, Cantonese, English and Hakka.
-- ☕️ A heavy coffee drinker。
-- 🏈 Love a lot of sports, like Fishing🎣, Swimming🏊‍♂️, Table tennis🎱🏓, Ball🏀⚽️, Badminton🏸, Singing🎤 and Piano🎹.
+**•• 📮 Free to contact me: eezhyang@gmail.com ••** 
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
