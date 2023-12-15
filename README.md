@@ -5,8 +5,8 @@
   <a href="https://yeungchenwa.github.io">Homepage</a>
 </p>
 
-**•• 📖 Here is my Homepage: https://yeungchenwa.github.io/ ••**  
-**•• 📮 Free to contact me: eezhyang@gmail.com ••** 
+**•• 📖 Here is my Homepage: https://yeungchenwa.github.io/ **  
+**•• 📮 Free to contact me: eezhyang@gmail.com ** 
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
