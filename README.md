@@ -1,17 +1,17 @@
-<h2 align="center">👋 Hello! I'm yeung!</h2>
+<h2 align="center">👋 Hello! I'm yeung! </h2>
 <p align="center">
   <a href="https://www.zhihu.com/people/young-40-31">Blog</a> •
   <a href="eezhyang@gmail.com">Email</a> •
   <a href="https://yeungchenwa.github.io">Homepage</a>
 </p>
 
+**•• 📖 Here is my Homepage: https://yeungchenwa.github.io/ ••**  
 
 - 🔭 I’m currently working in [SCUT-DLVCLab](https://github.com/HCIILAB).
-- 🌱 My research interest is Diffusion Model, Text-image generation, Low-Level Document Processing and Handwritten Character Recognition.
+- 🌱 My research interest is Diffusion Model, Image Generation, Low-Level Document Processing, Document Understanding, and Video Generation.
 - 👤 Languages: Chinese, Cantonese, English and Hakka.
 - ☕️ A heavy coffee drinker。
-- 🏈 Love a lot of sports, like Fishing🎣, Swimming🏊‍♂️, Table tennis🎱🏓, Ball🏀⚽️, Badminton🏸 and Singing🎤.
-- 📖 Homepage: https://yeungchenwa.github.io/
+- 🏈 Love a lot of sports, like Fishing🎣, Swimming🏊‍♂️, Table tennis🎱🏓, Ball🏀⚽️, Badminton🏸, Singing🎤 and Piano🎹.
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
