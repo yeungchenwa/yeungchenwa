@@ -1,8 +1,8 @@
 <h2 align="center">👋 Hello! I'm yeung! </h2>
 <p align="center">
+  <a href="https://yeungchenwa.github.io">Homepage</a> •
   <a href="https://www.zhihu.com/people/young-40-31">Blog</a> •
-  <a href="eezhyang@gmail.com">Email</a> •
-  <a href="https://yeungchenwa.github.io">Homepage</a>
+  <a href="eezhyang@gmail.com">Email</a>
 </p>
 
 ••<strong> 📖 Here is my Homepage: https://yeungchenwa.github.io/ </strong>  
