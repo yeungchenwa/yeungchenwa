@@ -5,8 +5,8 @@
   <a href="eezhyang@gmail.com">Email</a>
 </p>
 
-••<strong> 📖 Here is my Homepage: https://yeungchenwa.github.io/ </strong>  
-••<strong> 📮 Free to contact me: eezhyang@gmail.com </strong> 
+- **📖 Homepage:** https://yeungchenwa.github.io/
+- **📮 Contact:** eezhyang@gmail.com
 
 ## Research Interest
 - Multi-modality Generation and Editing
