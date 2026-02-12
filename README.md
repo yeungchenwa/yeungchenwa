@@ -11,6 +11,6 @@
 
 ## Research Interest
 
-* Multi-modality Generation and Editing
+* Post-Train for Multi-modality Generation and Editing
 * Visual Text Generation and Editing
-* Unifying Understanding and Generation Model
+* Unifying Understanding and Generation for Next Generation Model
