@@ -15,3 +15,8 @@
 * Post-Train for Multi-modality Generation and Editing
 * Unifying Understanding and Generation for Next Generation Model
 * Visual Text Generation and Editing (Text Rendering)
+
+
+### 📊 GitHub Stats
+
+[![Yeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeungchenwa&show_icons=true&title_color=7A5FFF&icon_color=EB5454&text_color=434D58&bg_color=FFFFFF&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
